@@ -1,5 +1,9 @@
 # KiCad-Template-M5Stack for KiCad7
-a PCB template of modules of M5Stack with footprints for KiCad.
+
+- [Original](https://github.com/botanicfields/KiCad-Template-M5Stack)
+
+A PCB template of modules of M5Stack with footprints for KiCad.
+This is a modified version for KiCad7.
 
 ## for KiCad 6
 https://github.com/botanicfields/KiCad6-Environment
