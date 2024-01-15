@@ -1,4 +1,4 @@
-# KiCad-Template-M5Stack for KiCad7
+# KiCad7-M5Stack-Template for KiCad7
 
 - [Original](https://github.com/botanicfields/KiCad-Template-M5Stack)
 
